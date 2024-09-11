@@ -7,3 +7,6 @@ Bookmarker is a simple and user-friendly web application that allows you to book
 - **Manage Bookmarks**: Easily visit or delete your saved bookmarks.
 
 Whether you want to keep track of useful resources or your favorite blogs, Bookmarker makes it easy to stay organized.
+
+## Demo
+watch the demo [here](https://drive.google.com/file/d/10QdOkhbo_TeJMi_tV6d7hoWO9HLovpAl/view?usp=sharing).
